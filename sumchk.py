@@ -7,10 +7,10 @@ RESET = "\033[0m"            # Reset to default color
 
 def main():
     # Prompt for the first hash
-    hash1 = input("Specify the original value: ")
+    hash1 = input("Specify the first value: ")
 
     # Prompt for the second hash
-    hash2 = input("Specify your value: ")
+    hash2 = input("Specify the second value: ")
 
     # Compare the hashes
     if hash1 == hash2:
