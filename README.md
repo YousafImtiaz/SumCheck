@@ -12,4 +12,4 @@ SumCheck is a simple tool to verify your exam report integrity before submission
 ![Matching Value](./Images/Matching%20Value.jpg)
 
 ### No Match
-![No Match](./Images/No%20Match.jpg)
+![Matching Value](./Images/No%20Match.jpg)
