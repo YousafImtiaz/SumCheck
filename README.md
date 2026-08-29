@@ -5,3 +5,11 @@ SumCheck is a simple tool to verify your exam report integrity before submission
 
 ## Usage
 > python3 sumcheck.py
+
+## Screenshots
+
+### Matching Values
+![Matching Value](./Images/Matching%20Value.jpg)
+
+### No Match
+![No Match](./Images/No%20Match.jpg)
